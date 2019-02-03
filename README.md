@@ -10,8 +10,6 @@ WebGL is very similar to [OpenGL](https://www.opengl.org/documentation/).  Both 
 
 Open [index.html](./html/index.html) in the src folder with your browser.
 
-You can upload an .obj file to view using the [.obj viewer tab](./html/example03.html).
-
 ## Following the source code
 
 The slides can be found [here](https://docs.google.com/presentation/d/1G0oI4RSXu9bhvVO_9nfJg-OdxvJwjYsFNBdAQPhrhP0/edit?usp=sharing).
@@ -21,12 +19,6 @@ Start by looking at the comments in the HTML.  Each HTML document invokes an exa
 Go through the code in these scripts and see if you can complete the tasks.
 
 There is also a script with helper functions called [commonFunctions.js](commonFunctions.js).
-
-## Note on the models
-
-The [.obj models](./models) can be viewed in the [.obj viewer tab](./html/example03.html).
-You can browse to any .obj file on your machine and try to load it.
-[The code](./examples/example03.js) contains a method to fit the model to the viewing area.
 
 ## Note on supporting libraries
 
