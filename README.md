@@ -12,9 +12,6 @@ Open [index.html](./html/index.html) in the src folder with your browser.
 
 ## Following the source code
 
-The slides can be found [here](https://docs.google.com/presentation/d/1G0oI4RSXu9bhvVO_9nfJg-OdxvJwjYsFNBdAQPhrhP0/edit?usp=sharing).
-They explain the flow of the code in the examples.
-
 Start by looking at the comments in the HTML.  Each HTML document invokes an exampleXX.js script which is where the logic for setting up and running WebGL is.
 Go through the code in these scripts and see if you can complete the tasks.
 
